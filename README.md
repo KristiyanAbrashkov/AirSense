@@ -1,4 +1,4 @@
 # AirSense
-We aren't using code for our project!
-We are using a special program-"Blynk".
-This is a link to our work in this program:https://blynk.io/
+Ние не използваме код за нашия проект!
+Ние използваме специална програма-"Blynk".
+Това е линк към работа ни в тази програма: https://blynk.io/
